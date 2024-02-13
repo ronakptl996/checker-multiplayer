@@ -26,16 +26,25 @@ To run this project, you will need to add the following environment variables to
 **Server:** Node, Express, TypeScript, Redis, Socket.Io, Joi, Bull
 
 
-## Project Script
-Install packages for project
+## Getting Started
+To get started with the Checker Game, follow these steps:
+1 Clone the repository to your local machine:
+```bash
+   git clone https://github.com/ronakptl996/checker-multiplayer.git
+```
+2 Navigate to the project directory:
+```bash
+   cd checker-multiplaye
+```
+3 Install the project dependencies:
 ```bash
   npm install
 ```
-To run this project
+4 Start the development server:
 ```bash
   npm run dev
 ```
-To create a build for this project
+5 Create build using:
 ```bash
   npm run build
 ```
