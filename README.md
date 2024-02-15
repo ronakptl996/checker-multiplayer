@@ -34,7 +34,7 @@ To get started with the Checker Game, follow these steps:
 ```
 2. Navigate to the project directory:
 ```bash
-   cd checker-multiplaye
+   cd checker-multiplayer
 ```
 3. Install the project dependencies:
 ```bash
